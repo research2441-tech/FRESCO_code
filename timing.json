@@ -1,0 +1,14 @@
+{
+ "actor_ms_per_call_K10": 0.08608823150007083,
+ "actor_params": 8426,
+ "actor_params_nogat": 5834,
+ "critic_params": 6339,
+ "macs_per_head": 8608,
+ "elector_params": 105,
+ "elector_ms_100nodes": 0.08280381999952624,
+ "shield_ms_per_epoch": 0.16089139799987606,
+ "shield_memory_kB": 46.875,
+ "episode_s": 6.786770932000081,
+ "rlnc_decode_ms_B16": 2.289030060001096,
+ "ctrl_frames_per_round_N100": 200
+}
